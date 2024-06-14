@@ -18,9 +18,9 @@ arTIco is a research project in the funding line "Digitalization" of the Bavaria
 
 ## Authors
 
-- Franz Plaschkies (Technische Hochschule Ingolstadt)
-- Felix Stocker (Applus+ IDIADA Fahrzeugtechnik GmbH)
-- Zhengxuan Yuan (Applus+ IDIADA Fahrzeugtechnik GmbH)
+- [Franz Plaschkies (Technische Hochschule Ingolstadt)](https://github.com/frapla)
+- [Felix Stocker (Applus+ IDIADA Fahrzeugtechnik GmbH)](https://github.com/FelixStocker94)
+- [Zhengxuan Yuan (Applus+ IDIADA Fahrzeugtechnik GmbH)](https://github.com/Kevoyuan)
 
 ## Usage/Examples
 
@@ -110,5 +110,5 @@ Generate your experiments (single and optuna) in src/experiment
 
 ## Feedback
 
-If you have any feedback, please reach out to us at ondrej.vaculin@thi.de
+If you have any feedback, please reach out to us via [Ondrej Vaculin](ondrej.vaculin@thi.de)
 
