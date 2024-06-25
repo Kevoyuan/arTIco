@@ -15,12 +15,13 @@ The arTIco project investigates an innovative approach to the objective assessme
 ## Acknowledgements
 
 arTIco is a research project in the funding line "Digitalization" of the Bavarian Cooperative Research Programme (BayVFP) of the Free State of Bavaria under the funding number: DIK-2110-0025// DIK0404/02
+We conducted an arTIco workshop summarising the project and suggesting how to deal with advanced knowledge, integrated expert opinion in the process of labelling multivariate time series data.  You can read the document at https://zenodo.org/records/11656662
 
 ## Authors
 
 - [Franz Plaschkies (Technische Hochschule Ingolstadt)](https://github.com/frapla)
-- [Felix Stocker (Applus+ IDIADA Fahrzeugtechnik GmbH)](https://github.com/FelixStocker94)
-- [Zhengxuan Yuan (Applus+ IDIADA Fahrzeugtechnik GmbH)](https://github.com/Kevoyuan)
+- [Felix Stocker (IDIADA Fahrzeugtechnik GmbH)](https://github.com/FelixStocker94)
+- [Zhengxuan Yuan (IDIADA Fahrzeugtechnik GmbH)](https://github.com/Kevoyuan)
 
 ## Usage/Examples
 
