@@ -108,7 +108,7 @@ Generate your experiments (single and optuna) in src/experiment
 Please cite us if you use this code in your research:
 ```
 @software{Plaschkies_arTIco_Framework_2024,
-  author = {Plaschkies, Franz and Stocker, Felix and Zhengxuan, Yuan},
+  author = {Plaschkies, Franz and Stocker, Felix and Yuan, Zhengxuan},
   month = jun,
   title = {{arTIco Framework}},
   url = {https://github.com/frapla/arTIco},
