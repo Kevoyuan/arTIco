@@ -1,14 +1,14 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Plaschkies
-    given-names: Franz
+  - family-names: "Plaschkies"
+    given-names: "Franz"
     orcid: -
-  - family-names: Stocker
-    given-names: Felix
-    orcid: https://orcid.org/0000-0003-1328-5394
-  - family-names: Zhengxuan 
-    given-names: Yuan
+  - family-names: "Stocker"
+    given-names: "Felix"
+    orcid: "https://orcid.org/0000-0003-1328-5394"
+  - family-names: "Zhengxuan" 
+    given-names: "Yuan"
     orcid: -
 title: "arTIco Framework"
 version: 1.0
@@ -16,3 +16,4 @@ identifiers:
   - type: doi
     value: https://doi.org/10.5281/zenodo.11657449
 date-released: 2024-06-14
+url: "https://github.com/frapla/arTIco"
