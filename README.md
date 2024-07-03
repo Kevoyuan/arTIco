@@ -103,7 +103,19 @@ Generate your experiments (single and optuna) in src/experiment
         │
         └── _StandardNames.py
 
+## Reference
 
+Please cite us if you use this library in your research:
+```
+@software{Plaschkies_arTIco_Framework_2024,
+  author = {Plaschkies, Franz and Stocker, Felix and Zhengxuan, Yuan},
+  month = jun,
+  title = {{arTIco Framework}},
+  url = {https://github.com/frapla/arTIco},
+  version = {1.0},
+  year = {2024}
+}
+```
 
 ## License
 
