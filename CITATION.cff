@@ -3,13 +3,13 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Plaschkies"
     given-names: "Franz"
-    orcid: -
+    orcid: "-"
   - family-names: "Stocker"
     given-names: "Felix"
     orcid: "https://orcid.org/0000-0003-1328-5394"
   - family-names: "Zhengxuan" 
     given-names: "Yuan"
-    orcid: -
+    orcid: "-"
 title: "arTIco Framework"
 version: 1.0
 identifiers:
