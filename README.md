@@ -105,7 +105,7 @@ Generate your experiments (single and optuna) in src/experiment
 
 ## Reference
 
-Please cite us if you use this library in your research:
+Please cite us if you use this code in your research:
 ```
 @software{Plaschkies_arTIco_Framework_2024,
   author = {Plaschkies, Franz and Stocker, Felix and Zhengxuan, Yuan},
