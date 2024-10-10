@@ -38,9 +38,9 @@ src/experiments/_test_examples.py
 
 ## Documentation
 
-Convention: files starting with _ should not be changed
-Store your learners in src/build
-Generate your experiments (single and optuna) in src/experiment
+Convention: Files starting with _ should not be changed.
+Store your learners in src/build.
+Generate your experiments (single and optuna) in src/experiment.
 
 ### Structure
 
