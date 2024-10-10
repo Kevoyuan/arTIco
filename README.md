@@ -32,7 +32,7 @@ src/load/LoadFromRaw.py
 src/load/ExtractedFeatures.py
 
 # run examples
-src/experiments/_test_examples.py.py
+src/experiments/_test_examples.py
 ```
 
 
